@@ -4,6 +4,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="maincontentplaceholder" runat="Server">
     <h2 class="my-4">Category</h2>
+    <%--<h2 class="my-4">Category</h2>--%>
     <hr />
     <!-- Category Section -->
     <div class="row">
